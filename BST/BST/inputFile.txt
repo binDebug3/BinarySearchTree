@@ -1,0 +1,49 @@
+INT
+tree
+add 10
+add 9
+add 8
+add 7
+add 6
+add 5
+add 4
+add 3
+add 2
+add 1
+add 0
+size
+print
+remove 0
+find 8
+find 0
+print
+tree
+clear
+tree
+add 5
+add 2
+add 3
+add 4
+add 1
+add 7
+add 6
+add 8
+add 10
+add 7
+add 9
+add 0
+print
+remove 0
+print
+tree
+STRING
+tree
+add not
+add with
+add dreams
+add Die
+size
+find not
+find Die
+find dog
+tree
